@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_cross_up",
+  "textures": {
+    "wall": "galactipack:block/venus_stone_tiles"
+  }
+}

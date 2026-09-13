@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_middle",
+  "textures": {
+    "wall": "galactipack:block/venus_stone"
+  }
+}

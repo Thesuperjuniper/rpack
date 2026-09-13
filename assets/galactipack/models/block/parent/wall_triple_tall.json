@@ -1,0 +1,76 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "#wall"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"east": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"south": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"west": {"uv": [4, 0, 12, 16], "texture": "#wall"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#wall"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Full wall",
+			"from": [5, 0, 12],
+			"to": [11, 16, 16],
+			"faces": {
+				"north": {"uv": [10, 0, 16, 16], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [0, 0, 4, 16], "texture": "#wall"},
+				"south": {"uv": [10, 0, 16, 16], "texture": "#wall", "cullface": "south"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#wall"},
+				"up": {"uv": [16, 4, 10, 0], "texture": "#wall"},
+				"down": {"uv": [16, 0, 10, 4], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Full wall",
+			"from": [5, 0, 0],
+			"to": [11, 16, 4],
+			"faces": {
+				"north": {"uv": [10, 0, 16, 16], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [0, 0, 4, 16], "texture": "#wall"},
+				"south": {"uv": [10, 0, 16, 16], "texture": "#wall", "cullface": "south"},
+				"west": {"uv": [0, 0, 4, 16], "texture": "#wall"},
+				"up": {"uv": [16, 4, 10, 0], "texture": "#wall"},
+				"down": {"uv": [16, 0, 10, 4], "texture": "#wall", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Full wall",
+			"from": [5, 0, 28],
+			"to": [11, 16, 32],
+			"rotation": {"x": 0, "y": 90, "z": 0, "origin": [0, 0, 16]},
+			"faces": {
+				"north": {"uv": [10, 2, 16, 16], "texture": "#wall", "cullface": "north"},
+				"east": {"uv": [0, 2, 4, 16], "texture": "#wall"},
+				"south": {"uv": [10, 2, 16, 16], "texture": "#wall", "cullface": "south"},
+				"west": {"uv": [0, 2, 4, 16], "texture": "#wall"},
+				"up": {"uv": [16, 4, 10, 0], "texture": "#wall"},
+				"down": {"uv": [16, 0, 10, 4], "texture": "#wall", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 135, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"rotation": [0, 90, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"on_shelf": {
+			"rotation": [0, 90, 0]
+		}
+	}
+}

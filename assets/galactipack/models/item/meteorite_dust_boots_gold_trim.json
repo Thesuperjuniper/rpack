@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "galactipack:item/meteorite_dust_boots",
+    "layer1": "minecraft:trims/items/boots_trim_gold"
+  }
+}

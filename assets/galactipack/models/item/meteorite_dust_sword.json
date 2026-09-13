@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "galactipack:item/meteorite_dust_sword"
+  }
+}

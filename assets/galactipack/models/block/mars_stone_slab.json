@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "galactipack:block/mars_stone",
+    "side": "galactipack:block/mars_stone",
+    "top": "galactipack:block/mars_stone"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "galactipack:block/polished_mercury_stone",
+    "side": "galactipack:block/polished_mercury_stone",
+    "top": "galactipack:block/polished_mercury_stone"
+  }
+}

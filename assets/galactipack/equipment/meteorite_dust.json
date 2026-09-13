@@ -1,0 +1,24 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "galactipack:meteorite_dust"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "galactipack:meteorite_dust"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "galactipack:meteorite_dust"
+      }
+    ],
+    "nautilus_body": [
+      {
+        "texture": "galactipack:meteorite_dust"
+      }
+    ]
+  }
+}

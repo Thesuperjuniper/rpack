@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_corner",
+  "textures": {
+    "wall": "galactipack:block/mars_stone_bricks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_triple_tall",
+  "textures": {
+    "wall": "galactipack:block/mars_stone_tiles"
+  }
+}

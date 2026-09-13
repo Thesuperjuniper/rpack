@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_triple_tall",
+  "textures": {
+    "wall": "galactipack:block/polished_mercury_stone"
+  }
+}

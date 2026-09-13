@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_middle_up",
+  "textures": {
+    "wall": "galactipack:block/polished_moon_stone_crater"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "galactipack:block/parent/wall_corner",
+  "textures": {
+    "wall": "galactipack:block/mercury_stone"
+  }
+}
